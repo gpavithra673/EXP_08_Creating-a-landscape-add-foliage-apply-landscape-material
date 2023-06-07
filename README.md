@@ -75,13 +75,9 @@ optimizing performance until you achieve the desired result.
 
 
 ## OUTPUT:
+### Game Mode:
+![Screenshot (58)](https://github.com/gpavithra673/EXP_08_Creating-a-landscape-add-foliage-apply-landscape-material/assets/93427264/13c3a5cb-9421-4c16-9431-445513bed89e)
 
-### Full View:
-![image](https://github.com/Aashima02/Landscape-Foliage/assets/93427086/7fe1069e-b81a-4edc-8735-c20ae6732234)
-
-
-### Player View:
-![image](https://github.com/Aashima02/Landscape-Foliage/assets/93427086/4e48cfa1-8803-40b2-957e-22466f7298dd)
 
 ## RESULT:
 
